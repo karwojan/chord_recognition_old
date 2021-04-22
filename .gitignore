@@ -1,0 +1,12 @@
+*.mp4
+*.wav
+*.pyc
+*.swp
+checkpoints/
+cache/
+logs/
+*.aux
+*.lof
+*.log
+*.lot
+*.toc

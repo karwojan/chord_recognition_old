@@ -1,0 +1,1082 @@
+[
+  {
+    "path_to_annotation": "./datasets/the_beatles/03_-_A_Hard_Days_Night/08_-_Any_Time_At_All.lab",
+    "album_name": "A Hard Days Night",
+    "song_name": "Any Time At All",
+    "video_id": "https://www.youtube.com/watch?v=WuB7F-gRdJo&list=OLAK5uy_nMqp7mAgZ_A_Lx6aLe1329rrTNzemZkT4&index=8"
+  },
+  {
+    "path_to_annotation": "./datasets/the_beatles/03_-_A_Hard_Days_Night/06_-_Tell_Me_Why.lab",
+    "album_name": "A Hard Days Night",
+    "song_name": "Tell Me Why",
+    "video_id": "https://www.youtube.com/watch?v=GVub1QCUCGc&list=OLAK5uy_nMqp7mAgZ_A_Lx6aLe1329rrTNzemZkT4&index=6"
+  },
+  {
+    "path_to_annotation": "./datasets/the_beatles/03_-_A_Hard_Days_Night/11_-_When_I_Get_Home.lab",
+    "album_name": "A Hard Days Night",
+    "song_name": "When I Get Home",
+    "video_id": "https://www.youtube.com/watch?v=TN8odbpRgnU&list=OLAK5uy_nMqp7mAgZ_A_Lx6aLe1329rrTNzemZkT4&index=11"
+  },
+  {
+    "path_to_annotation": "./datasets/the_beatles/03_-_A_Hard_Days_Night/13_-_Ill_Be_Back.lab",
+    "album_name": "A Hard Days Night",
+    "song_name": "Ill Be Back",
+    "video_id": "https://www.youtube.com/watch?v=fJSTBNTac6k&list=OLAK5uy_nMqp7mAgZ_A_Lx6aLe1329rrTNzemZkT4&index=13"
+  },
+  {
+    "path_to_annotation": "./datasets/the_beatles/03_-_A_Hard_Days_Night/12_-_You_Cant_Do_That.lab",
+    "album_name": "A Hard Days Night",
+    "song_name": "You Cant Do That",
+    "video_id": "https://www.youtube.com/watch?v=6PK21u7YzmI&list=OLAK5uy_nMqp7mAgZ_A_Lx6aLe1329rrTNzemZkT4&index=12"
+  },
+  {
+    "path_to_annotation": "./datasets/the_beatles/03_-_A_Hard_Days_Night/01_-_A_Hard_Days_Night.lab",
+    "album_name": "A Hard Days Night",
+    "song_name": "A Hard Days Night",
+    "video_id": "https://www.youtube.com/watch?v=zx2TFk0vh1I&list=OLAK5uy_nMqp7mAgZ_A_Lx6aLe1329rrTNzemZkT4&index=1"
+  },
+  {
+    "path_to_annotation": "./datasets/the_beatles/03_-_A_Hard_Days_Night/02_-_I_Should_Have_Known_Better.lab",
+    "album_name": "A Hard Days Night",
+    "song_name": "I Should Have Known Better",
+    "video_id": "https://www.youtube.com/watch?v=5en2JMLA8Z0&list=OLAK5uy_nMqp7mAgZ_A_Lx6aLe1329rrTNzemZkT4&index=2"
+  },
+  {
+    "path_to_annotation": "./datasets/the_beatles/03_-_A_Hard_Days_Night/04_-_Im_Happy_Just_To_Dance_With_You.lab",
+    "album_name": "A Hard Days Night",
+    "song_name": "Im Happy Just To Dance With You",
+    "video_id": "https://www.youtube.com/watch?v=B7X1oUfa8uE&list=OLAK5uy_nMqp7mAgZ_A_Lx6aLe1329rrTNzemZkT4&index=4"
+  },
+  {
+    "path_to_annotation": "./datasets/the_beatles/03_-_A_Hard_Days_Night/09_-_Ill_Cry_Instead.lab",
+    "album_name": "A Hard Days Night",
+    "song_name": "Ill Cry Instead",
+    "video_id": "https://www.youtube.com/watch?v=zfnkMBOSIUQ&list=OLAK5uy_nMqp7mAgZ_A_Lx6aLe1329rrTNzemZkT4&index=9"
+  },
+  {
+    "path_to_annotation": "./datasets/the_beatles/03_-_A_Hard_Days_Night/03_-_If_I_Fell.lab",
+    "album_name": "A Hard Days Night",
+    "song_name": "If I Fell",
+    "video_id": "https://www.youtube.com/watch?v=F_80s6S_7Vw&list=OLAK5uy_nMqp7mAgZ_A_Lx6aLe1329rrTNzemZkT4&index=3"
+  },
+  {
+    "path_to_annotation": "./datasets/the_beatles/03_-_A_Hard_Days_Night/05_-_And_I_Love_Her.lab",
+    "album_name": "A Hard Days Night",
+    "song_name": "And I Love Her",
+    "video_id": "https://www.youtube.com/watch?v=5tc0gLSSU1M&list=OLAK5uy_nMqp7mAgZ_A_Lx6aLe1329rrTNzemZkT4&index=5"
+  },
+  {
+    "path_to_annotation": "./datasets/the_beatles/03_-_A_Hard_Days_Night/07_-_Cant_Buy_Me_Love.lab",
+    "album_name": "A Hard Days Night",
+    "song_name": "Cant Buy Me Love",
+    "video_id": "https://www.youtube.com/watch?v=TBSpmoA8V78&list=OLAK5uy_nMqp7mAgZ_A_Lx6aLe1329rrTNzemZkT4&index=7"
+  },
+  {
+    "path_to_annotation": "./datasets/the_beatles/03_-_A_Hard_Days_Night/10_-_Things_We_Said_Today.lab",
+    "album_name": "A Hard Days Night",
+    "song_name": "Things We Said Today",
+    "video_id": "https://www.youtube.com/watch?v=NItAlTsPuQg&list=OLAK5uy_nMqp7mAgZ_A_Lx6aLe1329rrTNzemZkT4&index=10"
+  },
+  {
+    "path_to_annotation": "./datasets/the_beatles/01_-_Please_Please_Me/02_-_Misery.lab",
+    "album_name": "Please Please Me",
+    "song_name": "Misery",
+    "video_id": "https://www.youtube.com/watch?v=qhbcN3ew9z0&list=OLAK5uy_n12OaxN7Jh4jnNZ8eharDpSrSBRHrd4m0&index=2"
+  },
+  {
+    "path_to_annotation": "./datasets/the_beatles/01_-_Please_Please_Me/12_-_A_Taste_Of_Honey.lab",
+    "album_name": "Please Please Me",
+    "song_name": "A Taste Of Honey",
+    "video_id": "https://www.youtube.com/watch?v=MkQ1eOcl5ug&list=OLAK5uy_n12OaxN7Jh4jnNZ8eharDpSrSBRHrd4m0&index=12"
+  },
+  {
+    "path_to_annotation": "./datasets/the_beatles/01_-_Please_Please_Me/01_-_I_Saw_Her_Standing_There.lab",
+    "album_name": "Please Please Me",
+    "song_name": "I Saw Her Standing There",
+    "video_id": "https://www.youtube.com/watch?v=oxwAB3SECtc&list=OLAK5uy_n12OaxN7Jh4jnNZ8eharDpSrSBRHrd4m0&index=1"
+  },
+  {
+    "path_to_annotation": "./datasets/the_beatles/01_-_Please_Please_Me/13_-_Theres_A_Place.lab",
+    "album_name": "Please Please Me",
+    "song_name": "Theres A Place",
+    "video_id": "https://www.youtube.com/watch?v=vTsbYbN8VVI&list=OLAK5uy_n12OaxN7Jh4jnNZ8eharDpSrSBRHrd4m0&index=13"
+  },
+  {
+    "path_to_annotation": "./datasets/the_beatles/01_-_Please_Please_Me/08_-_Love_Me_Do.lab",
+    "album_name": "Please Please Me",
+    "song_name": "Love Me Do",
+    "video_id": "https://www.youtube.com/watch?v=0pGOFX1D_jg&list=OLAK5uy_n12OaxN7Jh4jnNZ8eharDpSrSBRHrd4m0&index=8"
+  },
+  {
+    "path_to_annotation": "./datasets/the_beatles/01_-_Please_Please_Me/04_-_Chains.lab",
+    "album_name": "Please Please Me",
+    "song_name": "Chains",
+    "video_id": "https://www.youtube.com/watch?v=rJOhavaeJYk&list=OLAK5uy_n12OaxN7Jh4jnNZ8eharDpSrSBRHrd4m0&index=4"
+  },
+  {
+    "path_to_annotation": "./datasets/the_beatles/01_-_Please_Please_Me/10_-_Baby_Its_You.lab",
+    "album_name": "Please Please Me",
+    "song_name": "Baby Its You",
+    "video_id": "https://www.youtube.com/watch?v=AWUTlM6hz0g&list=OLAK5uy_n12OaxN7Jh4jnNZ8eharDpSrSBRHrd4m0&index=10"
+  },
+  {
+    "path_to_annotation": "./datasets/the_beatles/01_-_Please_Please_Me/07_-_Please_Please_Me.lab",
+    "album_name": "Please Please Me",
+    "song_name": "Please Please Me",
+    "video_id": "https://www.youtube.com/watch?v=czw8eqepir8&list=OLAK5uy_n12OaxN7Jh4jnNZ8eharDpSrSBRHrd4m0&index=7"
+  },
+  {
+    "path_to_annotation": "./datasets/the_beatles/01_-_Please_Please_Me/11_-_Do_You_Want_To_Know_A_Secret.lab",
+    "album_name": "Please Please Me",
+    "song_name": "Do You Want To Know A Secret",
+    "video_id": "https://www.youtube.com/watch?v=uRQ7ecvU56k&list=OLAK5uy_n12OaxN7Jh4jnNZ8eharDpSrSBRHrd4m0&index=11"
+  },
+  {
+    "path_to_annotation": "./datasets/the_beatles/01_-_Please_Please_Me/14_-_Twist_And_Shout.lab",
+    "album_name": "Please Please Me",
+    "song_name": "Twist And Shout",
+    "video_id": "https://www.youtube.com/watch?v=2RicaUqd9Hg"
+  },
+  {
+    "path_to_annotation": "./datasets/the_beatles/01_-_Please_Please_Me/05_-_Boys.lab",
+    "album_name": "Please Please Me",
+    "song_name": "Boys",
+    "video_id": "https://www.youtube.com/watch?v=Qr8OuW5JJgQ&list=OLAK5uy_n12OaxN7Jh4jnNZ8eharDpSrSBRHrd4m0&index=5"
+  },
+  {
+    "path_to_annotation": "./datasets/the_beatles/01_-_Please_Please_Me/06_-_Ask_Me_Why.lab",
+    "album_name": "Please Please Me",
+    "song_name": "Ask Me Why",
+    "video_id": "https://www.youtube.com/watch?v=2ttGjtfQ7EA&list=OLAK5uy_n12OaxN7Jh4jnNZ8eharDpSrSBRHrd4m0&index=6"
+  },
+  {
+    "path_to_annotation": "./datasets/the_beatles/01_-_Please_Please_Me/09_-_P._S._I_Love_You.lab",
+    "album_name": "Please Please Me",
+    "song_name": "P. S. I Love You",
+    "video_id": "https://www.youtube.com/watch?v=MA5DkiVKSlM&list=OLAK5uy_n12OaxN7Jh4jnNZ8eharDpSrSBRHrd4m0&index=9"
+  },
+  {
+    "path_to_annotation": "./datasets/the_beatles/01_-_Please_Please_Me/03_-_Anna_(Go_To_Him).lab",
+    "album_name": "Please Please Me",
+    "song_name": "Anna (Go To Him)",
+    "video_id": "https://www.youtube.com/watch?v=b3zNKWyLfus&list=OLAK5uy_n12OaxN7Jh4jnNZ8eharDpSrSBRHrd4m0&index=3"
+  },
+  {
+    "path_to_annotation": "./datasets/the_beatles/12_-_Let_It_Be/11_-_For_You_Blue.lab",
+    "album_name": "Let It Be",
+    "song_name": "For You Blue",
+    "video_id": "https://www.youtube.com/watch?v=TIFHRaZERHg&list=OLAK5uy_lVppDcVh5TI5HLCdhcn5zV3EFxNCEpAog&index=11"
+  },
+  {
+    "path_to_annotation": "./datasets/the_beatles/12_-_Let_It_Be/12_-_Get_Back.lab",
+    "album_name": "Let It Be",
+    "song_name": "Get Back",
+    "video_id": "https://www.youtube.com/watch?v=IKJqecxswCA&list=OLAK5uy_lVppDcVh5TI5HLCdhcn5zV3EFxNCEpAog&index=12"
+  },
+  {
+    "path_to_annotation": "./datasets/the_beatles/12_-_Let_It_Be/07_-_Maggie_Mae.lab",
+    "album_name": "Let It Be",
+    "song_name": "Maggie Mae",
+    "video_id": "https://www.youtube.com/watch?v=tSn1r9--tq4&list=OLAK5uy_lVppDcVh5TI5HLCdhcn5zV3EFxNCEpAog&index=7"
+  },
+  {
+    "path_to_annotation": "./datasets/the_beatles/12_-_Let_It_Be/06_-_Let_It_Be.lab",
+    "album_name": "Let It Be",
+    "song_name": "Let It Be",
+    "video_id": "https://www.youtube.com/watch?v=QDYfEBY9NM4&list=OLAK5uy_lVppDcVh5TI5HLCdhcn5zV3EFxNCEpAog&index=6"
+  },
+  {
+    "path_to_annotation": "./datasets/the_beatles/12_-_Let_It_Be/08_-_Ive_Got_A_Feeling.lab",
+    "album_name": "Let It Be",
+    "song_name": "Ive Got A Feeling",
+    "video_id": "https://www.youtube.com/watch?v=DbKPZd5oihc&list=OLAK5uy_lVppDcVh5TI5HLCdhcn5zV3EFxNCEpAog&index=8"
+  },
+  {
+    "path_to_annotation": "./datasets/the_beatles/12_-_Let_It_Be/05_-_Dig_It.lab",
+    "album_name": "Let It Be",
+    "song_name": "Dig It",
+    "video_id": "https://www.youtube.com/watch?v=fUUOX6kAIxI&list=OLAK5uy_lVppDcVh5TI5HLCdhcn5zV3EFxNCEpAog&index=5"
+  },
+  {
+    "path_to_annotation": "./datasets/the_beatles/12_-_Let_It_Be/02_-_Dig_a_Pony.lab",
+    "album_name": "Let It Be",
+    "song_name": "Dig a Pony",
+    "video_id": "https://www.youtube.com/watch?v=LpdJE7HG8Ls&list=OLAK5uy_lVppDcVh5TI5HLCdhcn5zV3EFxNCEpAog&index=2"
+  },
+  {
+    "path_to_annotation": "./datasets/the_beatles/12_-_Let_It_Be/10_-_The_Long_and_Winding_Road.lab",
+    "album_name": "Let It Be",
+    "song_name": "The Long and Winding Road",
+    "video_id": "https://www.youtube.com/watch?v=fR4HjTH_fTM&list=OLAK5uy_lVppDcVh5TI5HLCdhcn5zV3EFxNCEpAog&index=10"
+  },
+  {
+    "path_to_annotation": "./datasets/the_beatles/12_-_Let_It_Be/03_-_Across_the_Universe.lab",
+    "album_name": "Let It Be",
+    "song_name": "Across the Universe",
+    "video_id": "https://www.youtube.com/watch?v=90M60PzmxEE&list=OLAK5uy_lVppDcVh5TI5HLCdhcn5zV3EFxNCEpAog&index=3"
+  },
+  {
+    "path_to_annotation": "./datasets/the_beatles/12_-_Let_It_Be/01_-_Two_of_Us.lab",
+    "album_name": "Let It Be",
+    "song_name": "Two of Us",
+    "video_id": "https://www.youtube.com/watch?v=cLQox8e9688&list=OLAK5uy_lVppDcVh5TI5HLCdhcn5zV3EFxNCEpAog&index=1"
+  },
+  {
+    "path_to_annotation": "./datasets/the_beatles/12_-_Let_It_Be/04_-_I_Me_Mine.lab",
+    "album_name": "Let It Be",
+    "song_name": "I Me Mine",
+    "video_id": "https://www.youtube.com/watch?v=seqaTuXkqFI&list=OLAK5uy_lVppDcVh5TI5HLCdhcn5zV3EFxNCEpAog&index=4"
+  },
+  {
+    "path_to_annotation": "./datasets/the_beatles/12_-_Let_It_Be/09_-_One_After_909.lab",
+    "album_name": "Let It Be",
+    "song_name": "One After 909",
+    "video_id": "https://www.youtube.com/watch?v=t8UeWjynWvE&list=OLAK5uy_lVppDcVh5TI5HLCdhcn5zV3EFxNCEpAog&index=9"
+  },
+  {
+    "path_to_annotation": "./datasets/the_beatles/02_-_With_the_Beatles/01_-_It_Wont_Be_Long.lab",
+    "album_name": "With the Beatles",
+    "song_name": "It Wont Be Long",
+    "video_id": "https://www.youtube.com/watch?v=UVKU6SevefY&list=OLAK5uy_nYOkIty9jiOs3mDb8kZk7RmyiDVLn_g_M&index=1"
+  },
+  {
+    "path_to_annotation": "./datasets/the_beatles/02_-_With_the_Beatles/14_-_Money.lab",
+    "album_name": "With the Beatles",
+    "song_name": "Money",
+    "video_id": "https://www.youtube.com/watch?v=CeWjEYhk7Xo&list=OLAK5uy_nYOkIty9jiOs3mDb8kZk7RmyiDVLn_g_M&index=14"
+  },
+  {
+    "path_to_annotation": "./datasets/the_beatles/02_-_With_the_Beatles/08_-_Roll_Over_Beethoven.lab",
+    "album_name": "With the Beatles",
+    "song_name": "Roll Over Beethoven",
+    "video_id": "https://www.youtube.com/watch?v=Hz5jXwOXgKQ&list=OLAK5uy_nYOkIty9jiOs3mDb8kZk7RmyiDVLn_g_M&index=8"
+  },
+  {
+    "path_to_annotation": "./datasets/the_beatles/02_-_With_the_Beatles/05_-_Little_Child.lab",
+    "album_name": "With the Beatles",
+    "song_name": "Little Child",
+    "video_id": "https://www.youtube.com/watch?v=DVMfLIoejTc&list=OLAK5uy_nYOkIty9jiOs3mDb8kZk7RmyiDVLn_g_M&index=5"
+  },
+  {
+    "path_to_annotation": "./datasets/the_beatles/02_-_With_the_Beatles/07_-_Please_Mister_Postman.lab",
+    "album_name": "With the Beatles",
+    "song_name": "Please Mister Postman",
+    "video_id": "https://www.youtube.com/watch?v=v2Kk5IG2b8E&list=OLAK5uy_nYOkIty9jiOs3mDb8kZk7RmyiDVLn_g_M&index=7"
+  },
+  {
+    "path_to_annotation": "./datasets/the_beatles/02_-_With_the_Beatles/13_-_Not_A_Second_Time.lab",
+    "album_name": "With the Beatles",
+    "song_name": "Not A Second Time",
+    "video_id": "https://www.youtube.com/watch?v=Gi8dTDuRCOk&list=OLAK5uy_nYOkIty9jiOs3mDb8kZk7RmyiDVLn_g_M&index=13"
+  },
+  {
+    "path_to_annotation": "./datasets/the_beatles/02_-_With_the_Beatles/04_-_Dont_Bother_Me.lab",
+    "album_name": "With the Beatles",
+    "song_name": "Dont Bother Me",
+    "video_id": "https://www.youtube.com/watch?v=k03IQbaTcxc&list=OLAK5uy_nYOkIty9jiOs3mDb8kZk7RmyiDVLn_g_M&index=4"
+  },
+  {
+    "path_to_annotation": "./datasets/the_beatles/02_-_With_the_Beatles/12_-_Devil_In_Her_Heart.lab",
+    "album_name": "With the Beatles",
+    "song_name": "Devil In Her Heart",
+    "video_id": "https://www.youtube.com/watch?v=IGe-jfFrxCk&list=OLAK5uy_nYOkIty9jiOs3mDb8kZk7RmyiDVLn_g_M&index=12"
+  },
+  {
+    "path_to_annotation": "./datasets/the_beatles/02_-_With_the_Beatles/03_-_All_My_Loving.lab",
+    "album_name": "With the Beatles",
+    "song_name": "All My Loving",
+    "video_id": "https://www.youtube.com/watch?v=TSpiwK5fig0&list=OLAK5uy_nYOkIty9jiOs3mDb8kZk7RmyiDVLn_g_M&index=3"
+  },
+  {
+    "path_to_annotation": "./datasets/the_beatles/02_-_With_the_Beatles/06_-_Till_There_Was_You.lab",
+    "album_name": "With the Beatles",
+    "song_name": "Till There Was You",
+    "video_id": "https://www.youtube.com/watch?v=SHAqAO7w8M8&list=OLAK5uy_nYOkIty9jiOs3mDb8kZk7RmyiDVLn_g_M&index=6"
+  },
+  {
+    "path_to_annotation": "./datasets/the_beatles/02_-_With_the_Beatles/09_-_Hold_Me_Tight.lab",
+    "album_name": "With the Beatles",
+    "song_name": "Hold Me Tight",
+    "video_id": "https://www.youtube.com/watch?v=H42Ou13za30&list=OLAK5uy_nYOkIty9jiOs3mDb8kZk7RmyiDVLn_g_M&index=9"
+  },
+  {
+    "path_to_annotation": "./datasets/the_beatles/02_-_With_the_Beatles/02_-_All_Ive_Got_To_Do.lab",
+    "album_name": "With the Beatles",
+    "song_name": "All Ive Got To Do",
+    "video_id": "https://www.youtube.com/watch?v=anMW41uvb_s&list=OLAK5uy_nYOkIty9jiOs3mDb8kZk7RmyiDVLn_g_M&index=2"
+  },
+  {
+    "path_to_annotation": "./datasets/the_beatles/02_-_With_the_Beatles/10_-_You_Really_Got_A_Hold_On_Me.lab",
+    "album_name": "With the Beatles",
+    "song_name": "You Really Got A Hold On Me",
+    "video_id": "https://www.youtube.com/watch?v=9rokS8Ao4nQ&list=OLAK5uy_nYOkIty9jiOs3mDb8kZk7RmyiDVLn_g_M&index=10"
+  },
+  {
+    "path_to_annotation": "./datasets/the_beatles/02_-_With_the_Beatles/11_-_I_Wanna_Be_Your_Man.lab",
+    "album_name": "With the Beatles",
+    "song_name": "I Wanna Be Your Man",
+    "video_id": "https://www.youtube.com/watch?v=mnct7Qf3SUQ&list=OLAK5uy_nYOkIty9jiOs3mDb8kZk7RmyiDVLn_g_M&index=11"
+  },
+  {
+    "path_to_annotation": "./datasets/the_beatles/09_-_Magical_Mystery_Tour/10_-_Baby_Youre_A_Rich_Man.lab",
+    "album_name": "Magical Mystery Tour",
+    "song_name": "Baby Youre A Rich Man",
+    "video_id": "https://www.youtube.com/watch?v=i5m-sgtwFck&list=OLAK5uy_k5Ato-9KKa4z-PDiFvP5zg-PaSwj-ssZg&index=10"
+  },
+  {
+    "path_to_annotation": "./datasets/the_beatles/09_-_Magical_Mystery_Tour/09_-_Penny_Lane.lab",
+    "album_name": "Magical Mystery Tour",
+    "song_name": "Penny Lane",
+    "video_id": "https://www.youtube.com/watch?v=vfxQ1oDiEJM"
+  },
+  {
+    "path_to_annotation": "./datasets/the_beatles/09_-_Magical_Mystery_Tour/04_-_Blue_Jay_Way.lab",
+    "album_name": "Magical Mystery Tour",
+    "song_name": "Blue Jay Way",
+    "video_id": "https://www.youtube.com/watch?v=ixmOAb6qzvY"
+  },
+  {
+    "path_to_annotation": "./datasets/the_beatles/09_-_Magical_Mystery_Tour/06_-_I_Am_The_Walrus.lab",
+    "album_name": "Magical Mystery Tour",
+    "song_name": "I Am The Walrus",
+    "video_id": "https://www.youtube.com/watch?v=t1Jm5epJr10"
+  },
+  {
+    "path_to_annotation": "./datasets/the_beatles/09_-_Magical_Mystery_Tour/05_-_Your_Mother_Should_Know.lab",
+    "album_name": "Magical Mystery Tour",
+    "song_name": "Your Mother Should Know",
+    "video_id": "https://www.youtube.com/watch?v=tCXsFjzMKdc&list=OLAK5uy_k5Ato-9KKa4z-PDiFvP5zg-PaSwj-ssZg&index=5"
+  },
+  {
+    "path_to_annotation": "./datasets/the_beatles/09_-_Magical_Mystery_Tour/01_-_Magical_Mystery_Tour.lab",
+    "album_name": "Magical Mystery Tour",
+    "song_name": "Magical Mystery Tour",
+    "video_id": "https://www.youtube.com/watch?v=l8WMGBuNaus&list=OLAK5uy_k5Ato-9KKa4z-PDiFvP5zg-PaSwj-ssZg&index=1"
+  },
+  {
+    "path_to_annotation": "./datasets/the_beatles/09_-_Magical_Mystery_Tour/11_-_All_You_Need_Is_Love.lab",
+    "album_name": "Magical Mystery Tour",
+    "song_name": "All You Need Is Love",
+    "video_id": "https://www.youtube.com/watch?v=1A8sOOKianA&list=OLAK5uy_k5Ato-9KKa4z-PDiFvP5zg-PaSwj-ssZg&index=11"
+  },
+  {
+    "path_to_annotation": "./datasets/the_beatles/09_-_Magical_Mystery_Tour/03_-_Flying.lab",
+    "album_name": "Magical Mystery Tour",
+    "song_name": "Flying",
+    "video_id": "https://www.youtube.com/watch?v=Z1ONJQLdZrk&list=OLAK5uy_k5Ato-9KKa4z-PDiFvP5zg-PaSwj-ssZg&index=3"
+  },
+  {
+    "path_to_annotation": "./datasets/the_beatles/09_-_Magical_Mystery_Tour/07_-_Hello_Goodbye.lab",
+    "album_name": "Magical Mystery Tour",
+    "song_name": "Hello Goodbye",
+    "video_id": "https://www.youtube.com/watch?v=ywZqBGHDTlA"
+  },
+  {
+    "path_to_annotation": "./datasets/the_beatles/09_-_Magical_Mystery_Tour/02_-_The_Fool_On_The_Hill.lab",
+    "album_name": "Magical Mystery Tour",
+    "song_name": "The Fool On The Hill",
+    "video_id": "https://www.youtube.com/watch?v=wsRatIMUSu8"
+  },
+  {
+    "path_to_annotation": "./datasets/the_beatles/09_-_Magical_Mystery_Tour/08_-_Strawberry_Fields_Forever.lab",
+    "album_name": "Magical Mystery Tour",
+    "song_name": "Strawberry Fields Forever",
+    "video_id": "https://www.youtube.com/watch?v=10LSq_J5ol4"
+  },
+  {
+    "path_to_annotation": "./datasets/the_beatles/04_-_Beatles_for_Sale/10_-_Honey_Dont.lab",
+    "album_name": "Beatles for Sale",
+    "song_name": "Honey Dont",
+    "video_id": "https://www.youtube.com/watch?v=XIc-VCw5r0A&list=OLAK5uy_nv2VlKz5RX3VLLz5YNMKY6YP9A68k1R_A&index=10"
+  },
+  {
+    "path_to_annotation": "./datasets/the_beatles/04_-_Beatles_for_Sale/04_-_Rock_and_Roll_Music.lab",
+    "album_name": "Beatles for Sale",
+    "song_name": "Rock and Roll Music",
+    "video_id": "https://www.youtube.com/watch?v=IRF6nmqcbxo&list=OLAK5uy_nv2VlKz5RX3VLLz5YNMKY6YP9A68k1R_A&index=4"
+  },
+  {
+    "path_to_annotation": "./datasets/the_beatles/04_-_Beatles_for_Sale/14_-_Everybodys_Trying_to_Be_My_Baby.lab",
+    "album_name": "Beatles for Sale",
+    "song_name": "Everybodys Trying to Be My Baby",
+    "video_id": "https://www.youtube.com/watch?v=wn7FiAdHcmw&list=OLAK5uy_nv2VlKz5RX3VLLz5YNMKY6YP9A68k1R_A&index=14"
+  },
+  {
+    "path_to_annotation": "./datasets/the_beatles/04_-_Beatles_for_Sale/09_-_Words_of_Love.lab",
+    "album_name": "Beatles for Sale",
+    "song_name": "Words of Love",
+    "video_id": "https://www.youtube.com/watch?v=no-nuFTHetE&list=OLAK5uy_nv2VlKz5RX3VLLz5YNMKY6YP9A68k1R_A&index=9"
+  },
+  {
+    "path_to_annotation": "./datasets/the_beatles/04_-_Beatles_for_Sale/11_-_Every_Little_Thing.lab",
+    "album_name": "Beatles for Sale",
+    "song_name": "Every Little Thing",
+    "video_id": "https://www.youtube.com/watch?v=jrDikOz8YSU&list=OLAK5uy_nv2VlKz5RX3VLLz5YNMKY6YP9A68k1R_A&index=11"
+  },
+  {
+    "path_to_annotation": "./datasets/the_beatles/04_-_Beatles_for_Sale/12_-_I_Dont_Want_to_Spoil_the_Party.lab",
+    "album_name": "Beatles for Sale",
+    "song_name": "I Dont Want to Spoil the Party",
+    "video_id": "https://www.youtube.com/watch?v=zqVDvLDLsjI&list=OLAK5uy_nv2VlKz5RX3VLLz5YNMKY6YP9A68k1R_A&index=12"
+  },
+  {
+    "path_to_annotation": "./datasets/the_beatles/04_-_Beatles_for_Sale/06_-_Mr._Moonlight.lab",
+    "album_name": "Beatles for Sale",
+    "song_name": "Mr. Moonlight",
+    "video_id": "https://www.youtube.com/watch?v=FZQ8nWZJrhA&list=OLAK5uy_nv2VlKz5RX3VLLz5YNMKY6YP9A68k1R_A&index=6"
+  },
+  {
+    "path_to_annotation": "./datasets/the_beatles/04_-_Beatles_for_Sale/13_-_What_Youre_Doing.lab",
+    "album_name": "Beatles for Sale",
+    "song_name": "What Youre Doing",
+    "video_id": "https://www.youtube.com/watch?v=7Sba2LbhkVY&list=OLAK5uy_nv2VlKz5RX3VLLz5YNMKY6YP9A68k1R_A&index=13"
+  },
+  {
+    "path_to_annotation": "./datasets/the_beatles/04_-_Beatles_for_Sale/03_-_Babys_In_Black.lab",
+    "album_name": "Beatles for Sale",
+    "song_name": "Babys In Black",
+    "video_id": "https://www.youtube.com/watch?v=TJFpUb7JGYo&list=OLAK5uy_nv2VlKz5RX3VLLz5YNMKY6YP9A68k1R_A&index=3"
+  },
+  {
+    "path_to_annotation": "./datasets/the_beatles/04_-_Beatles_for_Sale/07_-_Kansas_City-_Hey,_Hey,_Hey,_Hey.lab",
+    "album_name": "Beatles for Sale",
+    "song_name": "Kansas City- Hey, Hey, Hey, Hey",
+    "video_id": "https://www.youtube.com/watch?v=4xvW-Nf9VAw&list=OLAK5uy_nv2VlKz5RX3VLLz5YNMKY6YP9A68k1R_A&index=7"
+  },
+  {
+    "path_to_annotation": "./datasets/the_beatles/04_-_Beatles_for_Sale/08_-_Eight_Days_a_Week.lab",
+    "album_name": "Beatles for Sale",
+    "song_name": "Eight Days a Week",
+    "video_id": "https://www.youtube.com/watch?v=0soSE-RMH3s"
+  },
+  {
+    "path_to_annotation": "./datasets/the_beatles/04_-_Beatles_for_Sale/05_-_Ill_Follow_the_Sun.lab",
+    "album_name": "Beatles for Sale",
+    "song_name": "Ill Follow the Sun",
+    "video_id": "https://www.youtube.com/watch?v=28d_A_NuJ7A&list=OLAK5uy_nv2VlKz5RX3VLLz5YNMKY6YP9A68k1R_A&index=5"
+  },
+  {
+    "path_to_annotation": "./datasets/the_beatles/04_-_Beatles_for_Sale/02_-_Im_a_Loser.lab",
+    "album_name": "Beatles for Sale",
+    "song_name": "Im a Loser",
+    "video_id": "https://www.youtube.com/watch?v=f70Z3cvrQd0&list=OLAK5uy_nv2VlKz5RX3VLLz5YNMKY6YP9A68k1R_A&index=2"
+  },
+  {
+    "path_to_annotation": "./datasets/the_beatles/04_-_Beatles_for_Sale/01_-_No_Reply.lab",
+    "album_name": "Beatles for Sale",
+    "song_name": "No Reply",
+    "video_id": "https://www.youtube.com/watch?v=YgFo9STa70E&list=OLAK5uy_nv2VlKz5RX3VLLz5YNMKY6YP9A68k1R_A&index=1"
+  },
+  {
+    "path_to_annotation": "./datasets/the_beatles/10_-_The_Beatles/CD1_-_10_-_Im_So_Tired.lab",
+    "album_name": "The Beatles",
+    "song_name": "Im So Tired",
+    "video_id": "https://www.youtube.com/watch?v=7cqHtGb9WYM&list=OLAK5uy_njHTOnoK_aQOAa3XvnvmzZ76n8cBIJquI&index=10"
+  },
+  {
+    "path_to_annotation": "./datasets/the_beatles/10_-_The_Beatles/CD2_-_12_-_Revolution_9.lab",
+    "album_name": "The Beatles",
+    "song_name": "Revolution 9",
+    "video_id": "https://www.youtube.com/watch?v=SNdcFPjGsm8&list=OLAK5uy_njHTOnoK_aQOAa3XvnvmzZ76n8cBIJquI&index=29"
+  },
+  {
+    "path_to_annotation": "./datasets/the_beatles/10_-_The_Beatles/CD2_-_05_-_Sexy_Sadie.lab",
+    "album_name": "The Beatles",
+    "song_name": "Sexy Sadie",
+    "video_id": "https://www.youtube.com/watch?v=tSk5U4oHhu0&list=OLAK5uy_njHTOnoK_aQOAa3XvnvmzZ76n8cBIJquI&index=22"
+  },
+  {
+    "path_to_annotation": "./datasets/the_beatles/10_-_The_Beatles/CD2_-_03_-_Mother_Natures_Son.lab",
+    "album_name": "The Beatles",
+    "song_name": "Mother Natures Son",
+    "video_id": "https://www.youtube.com/watch?v=TMMiXjwhODU&list=OLAK5uy_njHTOnoK_aQOAa3XvnvmzZ76n8cBIJquI&index=20"
+  },
+  {
+    "path_to_annotation": "./datasets/the_beatles/10_-_The_Beatles/CD1_-_08_-_Happiness_is_a_Warm_Gun.lab",
+    "album_name": "The Beatles",
+    "song_name": "Happiness is a Warm Gun",
+    "video_id": "https://www.youtube.com/watch?v=vdvnOH060Qg&list=OLAK5uy_njHTOnoK_aQOAa3XvnvmzZ76n8cBIJquI&index=8"
+  },
+  {
+    "path_to_annotation": "./datasets/the_beatles/10_-_The_Beatles/CD1_-_13_-_Rocky_Raccoon.lab",
+    "album_name": "The Beatles",
+    "song_name": "Rocky Raccoon",
+    "video_id": "https://www.youtube.com/watch?v=sDcDCZGcZj8&list=OLAK5uy_njHTOnoK_aQOAa3XvnvmzZ76n8cBIJquI&index=13"
+  },
+  {
+    "path_to_annotation": "./datasets/the_beatles/10_-_The_Beatles/CD2_-_10_-_Savoy_Truffle.lab",
+    "album_name": "The Beatles",
+    "song_name": "Savoy Truffle",
+    "video_id": "https://www.youtube.com/watch?v=z9EaBjFvQpc&list=OLAK5uy_njHTOnoK_aQOAa3XvnvmzZ76n8cBIJquI&index=27"
+  },
+  {
+    "path_to_annotation": "./datasets/the_beatles/10_-_The_Beatles/CD1_-_12_-_Piggies.lab",
+    "album_name": "The Beatles",
+    "song_name": "Piggies",
+    "video_id": "https://www.youtube.com/watch?v=RhY1x8CpWeI&list=OLAK5uy_njHTOnoK_aQOAa3XvnvmzZ76n8cBIJquI&index=12"
+  },
+  {
+    "path_to_annotation": "./datasets/the_beatles/10_-_The_Beatles/CD2_-_09_-_Honey_Pie.lab",
+    "album_name": "The Beatles",
+    "song_name": "Honey Pie",
+    "video_id": "https://www.youtube.com/watch?v=0Sr0efOe8yk&list=OLAK5uy_njHTOnoK_aQOAa3XvnvmzZ76n8cBIJquI&index=26"
+  },
+  {
+    "path_to_annotation": "./datasets/the_beatles/10_-_The_Beatles/CD1_-_07_-_While_My_Guitar_Gently_Weeps.lab",
+    "album_name": "The Beatles",
+    "song_name": "While My Guitar Gently Weeps",
+    "video_id": "https://www.youtube.com/watch?v=bI8P6ZSHSvE"
+  },
+  {
+    "path_to_annotation": "./datasets/the_beatles/10_-_The_Beatles/CD2_-_07_-_Long_Long_Long.lab",
+    "album_name": "The Beatles",
+    "song_name": "Long Long Long",
+    "video_id": "https://www.youtube.com/watch?v=e9vUCdfwlgw&list=OLAK5uy_njHTOnoK_aQOAa3XvnvmzZ76n8cBIJquI&index=24"
+  },
+  {
+    "path_to_annotation": "./datasets/the_beatles/10_-_The_Beatles/CD1_-_06_-_The_Continuing_Story_of_Bungalow_Bill.lab",
+    "album_name": "The Beatles",
+    "song_name": "The Continuing Story of Bungalow Bill",
+    "video_id": "https://www.youtube.com/watch?v=J39DC9t0I5o&list=OLAK5uy_njHTOnoK_aQOAa3XvnvmzZ76n8cBIJquI&index=6"
+  },
+  {
+    "path_to_annotation": "./datasets/the_beatles/10_-_The_Beatles/CD1_-_17_-_Julia.lab",
+    "album_name": "The Beatles",
+    "song_name": "Julia",
+    "video_id": "https://www.youtube.com/watch?v=TZip_br_v3w&list=OLAK5uy_njHTOnoK_aQOAa3XvnvmzZ76n8cBIJquI&index=17"
+  },
+  {
+    "path_to_annotation": "./datasets/the_beatles/10_-_The_Beatles/CD2_-_08_-_Revolution_1.lab",
+    "album_name": "The Beatles",
+    "song_name": "Revolution 1",
+    "video_id": "https://www.youtube.com/watch?v=OmsXsIv2Ppw&list=OLAK5uy_njHTOnoK_aQOAa3XvnvmzZ76n8cBIJquI&index=25"
+  },
+  {
+    "path_to_annotation": "./datasets/the_beatles/10_-_The_Beatles/CD1_-_02_-_Dear_Prudence.lab",
+    "album_name": "The Beatles",
+    "song_name": "Dear Prudence",
+    "video_id": "https://www.youtube.com/watch?v=wQA59IkCF5I&list=OLAK5uy_njHTOnoK_aQOAa3XvnvmzZ76n8cBIJquI&index=2"
+  },
+  {
+    "path_to_annotation": "./datasets/the_beatles/10_-_The_Beatles/CD1_-_16_-_I_Will.lab",
+    "album_name": "The Beatles",
+    "song_name": "I Will",
+    "video_id": "https://www.youtube.com/watch?v=p-abNGP1BK4&list=OLAK5uy_njHTOnoK_aQOAa3XvnvmzZ76n8cBIJquI&index=16"
+  },
+  {
+    "path_to_annotation": "./datasets/the_beatles/10_-_The_Beatles/CD1_-_11_-_Black_Bird.lab",
+    "album_name": "The Beatles",
+    "song_name": "Black Bird",
+    "video_id": "https://www.youtube.com/watch?v=Man4Xw8Xypo&list=OLAK5uy_njHTOnoK_aQOAa3XvnvmzZ76n8cBIJquI&index=11"
+  },
+  {
+    "path_to_annotation": "./datasets/the_beatles/10_-_The_Beatles/CD1_-_05_-_Wild_Honey_Pie.lab",
+    "album_name": "The Beatles",
+    "song_name": "Wild Honey Pie",
+    "video_id": "https://www.youtube.com/watch?v=l-ekNlk5VDM&list=OLAK5uy_njHTOnoK_aQOAa3XvnvmzZ76n8cBIJquI&index=5"
+  },
+  {
+    "path_to_annotation": "./datasets/the_beatles/10_-_The_Beatles/CD1_-_04_-_Ob-La-Di,_Ob-La-Da.lab",
+    "album_name": "The Beatles",
+    "song_name": "Ob-La-Di, Ob-La-Da",
+    "video_id": "https://www.youtube.com/watch?v=_J9NpHKrKMw&list=OLAK5uy_njHTOnoK_aQOAa3XvnvmzZ76n8cBIJquI&index=4"
+  },
+  {
+    "path_to_annotation": "./datasets/the_beatles/10_-_The_Beatles/CD1_-_03_-_Glass_Onion.lab",
+    "album_name": "The Beatles",
+    "song_name": "Glass Onion",
+    "video_id": "https://www.youtube.com/watch?v=2tSIZLuCKUI"
+  },
+  {
+    "path_to_annotation": "./datasets/the_beatles/10_-_The_Beatles/CD1_-_15_-_Why_Dont_We_Do_It_In_The_Road.lab",
+    "album_name": "The Beatles",
+    "song_name": "Why Dont We Do It In The Road",
+    "video_id": "https://www.youtube.com/watch?v=p4E6KtQg_z0&list=OLAK5uy_njHTOnoK_aQOAa3XvnvmzZ76n8cBIJquI&index=15"
+  },
+  {
+    "path_to_annotation": "./datasets/the_beatles/10_-_The_Beatles/CD2_-_04_-_Everybodys_Got_Something_To_Hide_Except_Me_and_My_Monkey.lab",
+    "album_name": "The Beatles",
+    "song_name": "Everybodys Got Something To Hide Except Me and My Monkey",
+    "video_id": "https://www.youtube.com/watch?v=eyV3zCq1OHM&list=OLAK5uy_njHTOnoK_aQOAa3XvnvmzZ76n8cBIJquI&index=21"
+  },
+  {
+    "path_to_annotation": "./datasets/the_beatles/10_-_The_Beatles/CD2_-_02_-_Yer_Blues.lab",
+    "album_name": "The Beatles",
+    "song_name": "Yer Blues",
+    "video_id": "https://www.youtube.com/watch?v=HEQQ-1rd4A0&list=OLAK5uy_njHTOnoK_aQOAa3XvnvmzZ76n8cBIJquI&index=19"
+  },
+  {
+    "path_to_annotation": "./datasets/the_beatles/10_-_The_Beatles/CD2_-_01_-_Birthday.lab",
+    "album_name": "The Beatles",
+    "song_name": "Birthday",
+    "video_id": "https://www.youtube.com/watch?v=dhdOPhTHeoE&list=OLAK5uy_njHTOnoK_aQOAa3XvnvmzZ76n8cBIJquI&index=18"
+  },
+  {
+    "path_to_annotation": "./datasets/the_beatles/10_-_The_Beatles/CD2_-_06_-_Helter_Skelter.lab",
+    "album_name": "The Beatles",
+    "song_name": "Helter Skelter",
+    "video_id": "https://www.youtube.com/watch?v=vWW2SzoAXMo&list=OLAK5uy_njHTOnoK_aQOAa3XvnvmzZ76n8cBIJquI&index=23"
+  },
+  {
+    "path_to_annotation": "./datasets/the_beatles/10_-_The_Beatles/CD1_-_01_-_Back_in_the_USSR.lab",
+    "album_name": "The Beatles",
+    "song_name": "Back in the USSR",
+    "video_id": "https://www.youtube.com/watch?v=0ArlUSVDQIw"
+  },
+  {
+    "path_to_annotation": "./datasets/the_beatles/10_-_The_Beatles/CD1_-_09_-_Martha_My_Dear.lab",
+    "album_name": "The Beatles",
+    "song_name": "Martha My Dear",
+    "video_id": "https://www.youtube.com/watch?v=RXawa90YU2s&list=OLAK5uy_njHTOnoK_aQOAa3XvnvmzZ76n8cBIJquI&index=9"
+  },
+  {
+    "path_to_annotation": "./datasets/the_beatles/10_-_The_Beatles/CD1_-_14_-_Dont_Pass_Me_By.lab",
+    "album_name": "The Beatles",
+    "song_name": "Dont Pass Me By",
+    "video_id": "https://www.youtube.com/watch?v=PTKEiQHHsuk&list=OLAK5uy_njHTOnoK_aQOAa3XvnvmzZ76n8cBIJquI&index=14"
+  },
+  {
+    "path_to_annotation": "./datasets/the_beatles/10_-_The_Beatles/CD2_-_13_-_Good_Night.lab",
+    "album_name": "The Beatles",
+    "song_name": "Good Night",
+    "video_id": "https://www.youtube.com/watch?v=Qp_djIuQ2Cw&list=OLAK5uy_njHTOnoK_aQOAa3XvnvmzZ76n8cBIJquI&index=30"
+  },
+  {
+    "path_to_annotation": "./datasets/the_beatles/10_-_The_Beatles/CD2_-_11_-_Cry_Baby_Cry.lab",
+    "album_name": "The Beatles",
+    "song_name": "Cry Baby Cry",
+    "video_id": "https://www.youtube.com/watch?v=8Zeyej5bfZE&list=OLAK5uy_njHTOnoK_aQOAa3XvnvmzZ76n8cBIJquI&index=28"
+  },
+  {
+    "path_to_annotation": "./datasets/the_beatles/08_-_Sgt._Peppers_Lonely_Hearts_Club_Band/10_-_Lovely_Rita.lab",
+    "album_name": "Sgt. Peppers Lonely Hearts Club Band",
+    "song_name": "Lovely Rita",
+    "video_id": "https://www.youtube.com/watch?v=ysDwR5SIR1Q&list=OLAK5uy_l1fLqzoVl2yWsS4MqdiLyNQk9PGU1--8E&index=10"
+  },
+  {
+    "path_to_annotation": "./datasets/the_beatles/08_-_Sgt._Peppers_Lonely_Hearts_Club_Band/13_-_A_Day_In_The_Life.lab",
+    "album_name": "Sgt. Peppers Lonely Hearts Club Band",
+    "song_name": "A Day In The Life",
+    "video_id": "https://www.youtube.com/watch?v=53Dh-I0_m5Y"
+  },
+  {
+    "path_to_annotation": "./datasets/the_beatles/08_-_Sgt._Peppers_Lonely_Hearts_Club_Band/04_-_Getting_Better.lab",
+    "album_name": "Sgt. Peppers Lonely Hearts Club Band",
+    "song_name": "Getting Better",
+    "video_id": "https://www.youtube.com/watch?v=EGlo9LzmOME&list=OLAK5uy_l1fLqzoVl2yWsS4MqdiLyNQk9PGU1--8E&index=4"
+  },
+  {
+    "path_to_annotation": "./datasets/the_beatles/08_-_Sgt._Peppers_Lonely_Hearts_Club_Band/06_-_Shes_Leaving_Home.lab",
+    "album_name": "Sgt. Peppers Lonely Hearts Club Band",
+    "song_name": "Shes Leaving Home",
+    "video_id": "https://www.youtube.com/watch?v=VaBPY78D88g&list=OLAK5uy_l1fLqzoVl2yWsS4MqdiLyNQk9PGU1--8E&index=6"
+  },
+  {
+    "path_to_annotation": "./datasets/the_beatles/08_-_Sgt._Peppers_Lonely_Hearts_Club_Band/01_-_Sgt._Peppers_Lonely_Hearts_Club_Band.lab",
+    "album_name": "Sgt. Peppers Lonely Hearts Club Band",
+    "song_name": "Sgt. Peppers Lonely Hearts Club Band",
+    "video_id": "https://www.youtube.com/watch?v=VtXl8xAPAtA&list=OLAK5uy_l1fLqzoVl2yWsS4MqdiLyNQk9PGU1--8E&index=1"
+  },
+  {
+    "path_to_annotation": "./datasets/the_beatles/08_-_Sgt._Peppers_Lonely_Hearts_Club_Band/07_-_Being_For_The_Benefit_Of_Mr._Kite.lab",
+    "album_name": "Sgt. Peppers Lonely Hearts Club Band",
+    "song_name": "Being For The Benefit Of Mr. Kite!",
+    "video_id": "https://www.youtube.com/watch?v=bJVWZy4QOy0&list=OLAK5uy_l1fLqzoVl2yWsS4MqdiLyNQk9PGU1--8E&index=7"
+  },
+  {
+    "path_to_annotation": "./datasets/the_beatles/08_-_Sgt._Peppers_Lonely_Hearts_Club_Band/09_-_When_Im_Sixty-Four.lab",
+    "album_name": "Sgt. Peppers Lonely Hearts Club Band",
+    "song_name": "When Im Sixty-Four",
+    "video_id": "https://www.youtube.com/watch?v=HCTunqv1Xt4&list=OLAK5uy_l1fLqzoVl2yWsS4MqdiLyNQk9PGU1--8E&index=9"
+  },
+  {
+    "path_to_annotation": "./datasets/the_beatles/08_-_Sgt._Peppers_Lonely_Hearts_Club_Band/08_-_Within_You_Without_You.lab",
+    "album_name": "Sgt. Peppers Lonely Hearts Club Band",
+    "song_name": "Within You Without You",
+    "video_id": "https://www.youtube.com/watch?v=HsffxGyY4ck&list=OLAK5uy_l1fLqzoVl2yWsS4MqdiLyNQk9PGU1--8E&index=8"
+  },
+  {
+    "path_to_annotation": "./datasets/the_beatles/08_-_Sgt._Peppers_Lonely_Hearts_Club_Band/12_-_Sgt._Peppers_Lonely_Hearts_Club_Band_(Reprise).lab",
+    "album_name": "Sgt. Peppers Lonely Hearts Club Band",
+    "song_name": "Sgt. Peppers Lonely Hearts Club Band (Reprise)",
+    "video_id": "https://www.youtube.com/watch?v=aP47nqo2cf4&list=OLAK5uy_l1fLqzoVl2yWsS4MqdiLyNQk9PGU1--8E&index=12"
+  },
+  {
+    "path_to_annotation": "./datasets/the_beatles/08_-_Sgt._Peppers_Lonely_Hearts_Club_Band/05_-_Fixing_A_Hole.lab",
+    "album_name": "Sgt. Peppers Lonely Hearts Club Band",
+    "song_name": "Fixing A Hole",
+    "video_id": "https://www.youtube.com/watch?v=UPBd8eHQqIw&list=OLAK5uy_l1fLqzoVl2yWsS4MqdiLyNQk9PGU1--8E&index=5"
+  },
+  {
+    "path_to_annotation": "./datasets/the_beatles/08_-_Sgt._Peppers_Lonely_Hearts_Club_Band/11_-_Good_Morning_Good_Morning.lab",
+    "album_name": "Sgt. Peppers Lonely Hearts Club Band",
+    "song_name": "Good Morning Good Morning",
+    "video_id": "https://www.youtube.com/watch?v=sjb9AxDkwAQ&list=OLAK5uy_l1fLqzoVl2yWsS4MqdiLyNQk9PGU1--8E&index=11"
+  },
+  {
+    "path_to_annotation": "./datasets/the_beatles/08_-_Sgt._Peppers_Lonely_Hearts_Club_Band/03_-_Lucy_In_The_Sky_With_Diamonds.lab",
+    "album_name": "Sgt. Peppers Lonely Hearts Club Band",
+    "song_name": "Lucy In The Sky With Diamonds",
+    "video_id": "https://www.youtube.com/watch?v=naoknj1ebqI&list=OLAK5uy_l1fLqzoVl2yWsS4MqdiLyNQk9PGU1--8E&index=3"
+  },
+  {
+    "path_to_annotation": "./datasets/the_beatles/08_-_Sgt._Peppers_Lonely_Hearts_Club_Band/02_-_With_A_Little_Help_From_My_Friends.lab",
+    "album_name": "Sgt. Peppers Lonely Hearts Club Band",
+    "song_name": "With A Little Help From My Friends",
+    "video_id": "https://www.youtube.com/watch?v=0C58ttB2-Qg&list=OLAK5uy_l1fLqzoVl2yWsS4MqdiLyNQk9PGU1--8E&index=2"
+  },
+  {
+    "path_to_annotation": "./datasets/the_beatles/07_-_Revolver/12_-_I_Want_To_Tell_You.lab",
+    "album_name": "Revolver",
+    "song_name": "I Want To Tell You",
+    "video_id": "https://www.youtube.com/watch?v=7kXusIyqQ2o&list=OLAK5uy_n9q-ezB2RZF1WS7PR3h3drrTgNCf-DRSk&index=12"
+  },
+  {
+    "path_to_annotation": "./datasets/the_beatles/07_-_Revolver/14_-_Tomorrow_Never_Knows.lab",
+    "album_name": "Revolver",
+    "song_name": "Tomorrow Never Knows",
+    "video_id": "https://www.youtube.com/watch?v=pHNbHn3i9S4&list=OLAK5uy_n9q-ezB2RZF1WS7PR3h3drrTgNCf-DRSk&index=14"
+  },
+  {
+    "path_to_annotation": "./datasets/the_beatles/07_-_Revolver/08_-_Good_Day_Sunshine.lab",
+    "album_name": "Revolver",
+    "song_name": "Good Day Sunshine",
+    "video_id": "https://www.youtube.com/watch?v=6e01nNA02vw&list=OLAK5uy_n9q-ezB2RZF1WS7PR3h3drrTgNCf-DRSk&index=8"
+  },
+  {
+    "path_to_annotation": "./datasets/the_beatles/07_-_Revolver/04_-_Love_You_To.lab",
+    "album_name": "Revolver",
+    "song_name": "Love You To",
+    "video_id": "https://www.youtube.com/watch?v=s1X-q7MweIc&list=OLAK5uy_n9q-ezB2RZF1WS7PR3h3drrTgNCf-DRSk&index=4"
+  },
+  {
+    "path_to_annotation": "./datasets/the_beatles/07_-_Revolver/13_-_Got_To_Get_You_Into_My_Life.lab",
+    "album_name": "Revolver",
+    "song_name": "Got To Get You Into My Life",
+    "video_id": "https://www.youtube.com/watch?v=r95-7zfgtLw&list=OLAK5uy_n9q-ezB2RZF1WS7PR3h3drrTgNCf-DRSk&index=13"
+  },
+  {
+    "path_to_annotation": "./datasets/the_beatles/07_-_Revolver/10_-_For_No_One.lab",
+    "album_name": "Revolver",
+    "song_name": "For No One",
+    "video_id": "https://www.youtube.com/watch?v=ELlLIwhvknk&list=OLAK5uy_n9q-ezB2RZF1WS7PR3h3drrTgNCf-DRSk&index=10"
+  },
+  {
+    "path_to_annotation": "./datasets/the_beatles/07_-_Revolver/11_-_Doctor_Robert.lab",
+    "album_name": "Revolver",
+    "song_name": "Doctor Robert",
+    "video_id": "https://www.youtube.com/watch?v=Tb9L3iAUhc0&list=OLAK5uy_n9q-ezB2RZF1WS7PR3h3drrTgNCf-DRSk&index=11"
+  },
+  {
+    "path_to_annotation": "./datasets/the_beatles/07_-_Revolver/05_-_Here,_There_And_Everywhere.lab",
+    "album_name": "Revolver",
+    "song_name": "Here, There And Everywhere",
+    "video_id": "https://www.youtube.com/watch?v=xdcSFVXd3MU"
+  },
+  {
+    "path_to_annotation": "./datasets/the_beatles/07_-_Revolver/07_-_She_Said_She_Said.lab",
+    "album_name": "Revolver",
+    "song_name": "She Said She Said",
+    "video_id": "https://www.youtube.com/watch?v=rLzfo59AdEc&list=OLAK5uy_n9q-ezB2RZF1WS7PR3h3drrTgNCf-DRSk&index=7"
+  },
+  {
+    "path_to_annotation": "./datasets/the_beatles/07_-_Revolver/09_-_And_Your_Bird_Can_Sing.lab",
+    "album_name": "Revolver",
+    "song_name": "And Your Bird Can Sing",
+    "video_id": "https://www.youtube.com/watch?v=Uq0aeEYLkIE&list=OLAK5uy_n9q-ezB2RZF1WS7PR3h3drrTgNCf-DRSk&index=9"
+  },
+  {
+    "path_to_annotation": "./datasets/the_beatles/07_-_Revolver/03_-_Im_Only_Sleeping.lab",
+    "album_name": "Revolver",
+    "song_name": "Im Only Sleeping",
+    "video_id": "https://www.youtube.com/watch?v=BT5j9OQ7Sh0&list=OLAK5uy_n9q-ezB2RZF1WS7PR3h3drrTgNCf-DRSk&index=3"
+  },
+  {
+    "path_to_annotation": "./datasets/the_beatles/07_-_Revolver/01_-_Taxman.lab",
+    "album_name": "Revolver",
+    "song_name": "Taxman",
+    "video_id": "https://www.youtube.com/watch?v=l0zaebtU-CA&list=OLAK5uy_n9q-ezB2RZF1WS7PR3h3drrTgNCf-DRSk&index=1"
+  },
+  {
+    "path_to_annotation": "./datasets/the_beatles/07_-_Revolver/06_-_Yellow_Submarine.lab",
+    "album_name": "Revolver",
+    "song_name": "Yellow Submarine",
+    "video_id": "https://www.youtube.com/watch?v=RhoprlMxteE"
+  },
+  {
+    "path_to_annotation": "./datasets/the_beatles/07_-_Revolver/02_-_Eleanor_Rigby.lab",
+    "album_name": "Revolver",
+    "song_name": "Eleanor Rigby",
+    "video_id": "https://www.youtube.com/watch?v=wbxTlxuECJA"
+  },
+  {
+    "path_to_annotation": "./datasets/the_beatles/06_-_Rubber_Soul/01_-_Drive_My_Car.lab",
+    "album_name": "Rubber Soul",
+    "song_name": "Drive My Car",
+    "video_id": "https://www.youtube.com/watch?v=kfSQkZuIx84&list=OLAK5uy_lvTG69VbZm3r3r9crRBvT1Tj305YEbuaM&index=1"
+  },
+  {
+    "path_to_annotation": "./datasets/the_beatles/06_-_Rubber_Soul/05_-_Think_For_Yourself.lab",
+    "album_name": "Rubber Soul",
+    "song_name": "Think For Yourself",
+    "video_id": "https://www.youtube.com/watch?v=vtx5NTxebJk&list=OLAK5uy_lvTG69VbZm3r3r9crRBvT1Tj305YEbuaM&index=5"
+  },
+  {
+    "path_to_annotation": "./datasets/the_beatles/06_-_Rubber_Soul/11_-_In_My_Life.lab",
+    "album_name": "Rubber Soul",
+    "song_name": "In My Life",
+    "video_id": "https://www.youtube.com/watch?v=YBcdt6DsLQA&list=OLAK5uy_lvTG69VbZm3r3r9crRBvT1Tj305YEbuaM&index=11"
+  },
+  {
+    "path_to_annotation": "./datasets/the_beatles/06_-_Rubber_Soul/02_-_Norwegian_Wood_(This_Bird_Has_Flown).lab",
+    "album_name": "Rubber Soul",
+    "song_name": "Norwegian Wood (This Bird Has Flown)",
+    "video_id": "https://www.youtube.com/watch?v=Y_V6y1ZCg_8&list=OLAK5uy_lvTG69VbZm3r3r9crRBvT1Tj305YEbuaM&index=2"
+  },
+  {
+    "path_to_annotation": "./datasets/the_beatles/06_-_Rubber_Soul/12_-_Wait.lab",
+    "album_name": "Rubber Soul",
+    "song_name": "Wait",
+    "video_id": "https://www.youtube.com/watch?v=qJngWval8Bc&list=OLAK5uy_lvTG69VbZm3r3r9crRBvT1Tj305YEbuaM&index=12"
+  },
+  {
+    "path_to_annotation": "./datasets/the_beatles/06_-_Rubber_Soul/14_-_Run_For_Your_Life.lab",
+    "album_name": "Rubber Soul",
+    "song_name": "Run For Your Life",
+    "video_id": "https://www.youtube.com/watch?v=yzHXtxcIkg4&list=OLAK5uy_lvTG69VbZm3r3r9crRBvT1Tj305YEbuaM&index=14"
+  },
+  {
+    "path_to_annotation": "./datasets/the_beatles/06_-_Rubber_Soul/13_-_If_I_Needed_Someone.lab",
+    "album_name": "Rubber Soul",
+    "song_name": "If I Needed Someone",
+    "video_id": "https://www.youtube.com/watch?v=Kt5OoWr4v1k&list=OLAK5uy_lvTG69VbZm3r3r9crRBvT1Tj305YEbuaM&index=13"
+  },
+  {
+    "path_to_annotation": "./datasets/the_beatles/06_-_Rubber_Soul/03_-_You_Wont_See_Me.lab",
+    "album_name": "Rubber Soul",
+    "song_name": "You Wont See Me",
+    "video_id": "https://www.youtube.com/watch?v=OsjTO0yZQjk&list=OLAK5uy_lvTG69VbZm3r3r9crRBvT1Tj305YEbuaM&index=3"
+  },
+  {
+    "path_to_annotation": "./datasets/the_beatles/06_-_Rubber_Soul/09_-_Girl.lab",
+    "album_name": "Rubber Soul",
+    "song_name": "Girl",
+    "video_id": "https://www.youtube.com/watch?v=-8l3ntDR_lI&list=OLAK5uy_lvTG69VbZm3r3r9crRBvT1Tj305YEbuaM&index=9"
+  },
+  {
+    "path_to_annotation": "./datasets/the_beatles/06_-_Rubber_Soul/08_-_What_Goes_On.lab",
+    "album_name": "Rubber Soul",
+    "song_name": "What Goes On",
+    "video_id": "https://www.youtube.com/watch?v=PtC_l4kz7yw&list=OLAK5uy_lvTG69VbZm3r3r9crRBvT1Tj305YEbuaM&index=8"
+  },
+  {
+    "path_to_annotation": "./datasets/the_beatles/06_-_Rubber_Soul/10_-_Im_Looking_Through_You.lab",
+    "album_name": "Rubber Soul",
+    "song_name": "Im Looking Through You",
+    "video_id": "https://www.youtube.com/watch?v=gH6i9JAdJrQ&list=OLAK5uy_lvTG69VbZm3r3r9crRBvT1Tj305YEbuaM&index=10"
+  },
+  {
+    "path_to_annotation": "./datasets/the_beatles/06_-_Rubber_Soul/04_-_Nowhere_Man.lab",
+    "album_name": "Rubber Soul",
+    "song_name": "Nowhere Man",
+    "video_id": "https://www.youtube.com/watch?v=8scSwaKbE64&list=OLAK5uy_lvTG69VbZm3r3r9crRBvT1Tj305YEbuaM&index=4"
+  },
+  {
+    "path_to_annotation": "./datasets/the_beatles/06_-_Rubber_Soul/07_-_Michelle.lab",
+    "album_name": "Rubber Soul",
+    "song_name": "Michelle",
+    "video_id": "https://www.youtube.com/watch?v=WoBLi5eE-wY&list=OLAK5uy_lvTG69VbZm3r3r9crRBvT1Tj305YEbuaM&index=7"
+  },
+  {
+    "path_to_annotation": "./datasets/the_beatles/06_-_Rubber_Soul/06_-_The_Word.lab",
+    "album_name": "Rubber Soul",
+    "song_name": "The Word",
+    "video_id": "https://www.youtube.com/watch?v=RfBEqiEhCgM&list=OLAK5uy_lvTG69VbZm3r3r9crRBvT1Tj305YEbuaM&index=6"
+  },
+  {
+    "path_to_annotation": "./datasets/the_beatles/11_-_Abbey_Road/03_-_Maxwells_Silver_Hammer.lab",
+    "album_name": "Abbey Road",
+    "song_name": "Maxwells Silver Hammer",
+    "video_id": "https://www.youtube.com/watch?v=mJag19WoAe0&list=OLAK5uy_lj7SrLMlCLYsWHRdwAe4Qej8bRUQfppf0&index=3"
+  },
+  {
+    "path_to_annotation": "./datasets/the_beatles/11_-_Abbey_Road/04_-_Oh!_Darling.lab",
+    "album_name": "Abbey Road",
+    "song_name": "Oh! Darling",
+    "video_id": "https://www.youtube.com/watch?v=9BznFjbcBVs"
+  },
+  {
+    "path_to_annotation": "./datasets/the_beatles/11_-_Abbey_Road/01_-_Come_Together.lab",
+    "album_name": "Abbey Road",
+    "song_name": "Come Together",
+    "video_id": "https://www.youtube.com/watch?v=oolpPmuK2I8"
+  },
+  {
+    "path_to_annotation": "./datasets/the_beatles/11_-_Abbey_Road/10_-_Sun_King.lab",
+    "album_name": "Abbey Road",
+    "song_name": "Sun King",
+    "video_id": "https://www.youtube.com/watch?v=6bNMxWGHlTI&list=OLAK5uy_lj7SrLMlCLYsWHRdwAe4Qej8bRUQfppf0&index=10"
+  },
+  {
+    "path_to_annotation": "./datasets/the_beatles/11_-_Abbey_Road/14_-_Golden_Slumbers.lab",
+    "album_name": "Abbey Road",
+    "song_name": "Golden Slumbers",
+    "video_id": "https://www.youtube.com/watch?v=AcQjM7gV6mI&list=OLAK5uy_lj7SrLMlCLYsWHRdwAe4Qej8bRUQfppf0&index=14"
+  },
+  {
+    "path_to_annotation": "./datasets/the_beatles/11_-_Abbey_Road/08_-_Because.lab",
+    "album_name": "Abbey Road",
+    "song_name": "Because",
+    "video_id": "https://www.youtube.com/watch?v=hL0tnrl2L_U&list=OLAK5uy_lj7SrLMlCLYsWHRdwAe4Qej8bRUQfppf0&index=8"
+  },
+  {
+    "path_to_annotation": "./datasets/the_beatles/11_-_Abbey_Road/05_-_Octopuss_Garden.lab",
+    "album_name": "Abbey Road",
+    "song_name": "Octopuss Garden",
+    "video_id": "https://www.youtube.com/watch?v=De1LCQvbqV4&list=OLAK5uy_lj7SrLMlCLYsWHRdwAe4Qej8bRUQfppf0&index=5"
+  },
+  {
+    "path_to_annotation": "./datasets/the_beatles/11_-_Abbey_Road/16_-_The_End.lab",
+    "album_name": "Abbey Road",
+    "song_name": "The End",
+    "video_id": "https://www.youtube.com/watch?v=12R4FzIhdoQ&list=OLAK5uy_lj7SrLMlCLYsWHRdwAe4Qej8bRUQfppf0&index=16"
+  },
+  {
+    "path_to_annotation": "./datasets/the_beatles/11_-_Abbey_Road/17_-_Her_Majesty.lab",
+    "album_name": "Abbey Road",
+    "song_name": "Her Majesty",
+    "video_id": "https://www.youtube.com/watch?v=Mh1hKt5kQ_4&list=OLAK5uy_lj7SrLMlCLYsWHRdwAe4Qej8bRUQfppf0&index=17"
+  },
+  {
+    "path_to_annotation": "./datasets/the_beatles/11_-_Abbey_Road/06_-_I_Want_You.lab",
+    "album_name": "Abbey Road",
+    "song_name": "I Want You",
+    "video_id": "https://www.youtube.com/watch?v=tAe2Q_LhY8g&list=OLAK5uy_lj7SrLMlCLYsWHRdwAe4Qej8bRUQfppf0&index=6"
+  },
+  {
+    "path_to_annotation": "./datasets/the_beatles/11_-_Abbey_Road/02_-_Something.lab",
+    "album_name": "Abbey Road",
+    "song_name": "Something",
+    "video_id": "https://www.youtube.com/watch?v=VWO3nEuWo4k"
+  },
+  {
+    "path_to_annotation": "./datasets/the_beatles/11_-_Abbey_Road/15_-_Carry_That_Weight.lab",
+    "album_name": "Abbey Road",
+    "song_name": "Carry That Weight",
+    "video_id": "https://www.youtube.com/watch?v=6B224XDJw6g&list=OLAK5uy_lj7SrLMlCLYsWHRdwAe4Qej8bRUQfppf0&index=15"
+  },
+  {
+    "path_to_annotation": "./datasets/the_beatles/11_-_Abbey_Road/07_-_Here_Comes_The_Sun.lab",
+    "album_name": "Abbey Road",
+    "song_name": "Here Comes The Sun",
+    "video_id": "https://www.youtube.com/watch?v=xUNqsfFUwhY"
+  },
+  {
+    "path_to_annotation": "./datasets/the_beatles/11_-_Abbey_Road/12_-_Polythene_Pam.lab",
+    "album_name": "Abbey Road",
+    "song_name": "Polythene Pam",
+    "video_id": "https://www.youtube.com/watch?v=Cb0dTdTeHMU&list=OLAK5uy_lj7SrLMlCLYsWHRdwAe4Qej8bRUQfppf0&index=12"
+  },
+  {
+    "path_to_annotation": "./datasets/the_beatles/11_-_Abbey_Road/09_-_You_Never_Give_Me_Your_Money.lab",
+    "album_name": "Abbey Road",
+    "song_name": "You Never Give Me Your Money",
+    "video_id": "https://www.youtube.com/watch?v=BpndGZ71yww&list=OLAK5uy_lj7SrLMlCLYsWHRdwAe4Qej8bRUQfppf0&index=9"
+  },
+  {
+    "path_to_annotation": "./datasets/the_beatles/11_-_Abbey_Road/13_-_She_Came_In_Through_The_Bathroom_Window.lab",
+    "album_name": "Abbey Road",
+    "song_name": "She Came In Through The Bathroom Window",
+    "video_id": "https://www.youtube.com/watch?v=NVv7IzEVf3M&list=OLAK5uy_lj7SrLMlCLYsWHRdwAe4Qej8bRUQfppf0&index=13"
+  },
+  {
+    "path_to_annotation": "./datasets/the_beatles/11_-_Abbey_Road/11_-_Mean_Mr_Mustard.lab",
+    "album_name": "Abbey Road",
+    "song_name": "Mean Mr Mustard",
+    "video_id": "https://www.youtube.com/watch?v=oMarHac3VpQ&list=OLAK5uy_lj7SrLMlCLYsWHRdwAe4Qej8bRUQfppf0&index=11"
+  },
+  {
+    "path_to_annotation": "./datasets/the_beatles/05_-_Help!/05_-_Another_Girl.lab",
+    "album_name": "Help!",
+    "song_name": "Another Girl",
+    "video_id": "https://www.youtube.com/watch?v=EMBYNWr5R_U&list=OLAK5uy_k-1jZWXGR9opMY4OrIipxhUeryP0-ej1A&index=5"
+  },
+  {
+    "path_to_annotation": "./datasets/the_beatles/05_-_Help!/04_-_I_Need_You.lab",
+    "album_name": "Help!",
+    "song_name": "I Need You",
+    "video_id": "https://www.youtube.com/watch?v=6t24nX_sak8&list=OLAK5uy_k-1jZWXGR9opMY4OrIipxhUeryP0-ej1A&index=4"
+  },
+  {
+    "path_to_annotation": "./datasets/the_beatles/05_-_Help!/12_-_Ive_Just_Seen_a_Face.lab",
+    "album_name": "Help!",
+    "song_name": "Ive Just Seen a Face",
+    "video_id": "https://www.youtube.com/watch?v=m8LbJfC0SYM&list=OLAK5uy_k-1jZWXGR9opMY4OrIipxhUeryP0-ej1A&index=12"
+  },
+  {
+    "path_to_annotation": "./datasets/the_beatles/05_-_Help!/14_-_Dizzy_Miss_Lizzy.lab",
+    "album_name": "Help!",
+    "song_name": "Dizzy Miss Lizzy",
+    "video_id": "https://www.youtube.com/watch?v=psJ1cHm_su4&list=OLAK5uy_k-1jZWXGR9opMY4OrIipxhUeryP0-ej1A&index=14"
+  },
+  {
+    "path_to_annotation": "./datasets/the_beatles/05_-_Help!/09_-_Its_Only_Love.lab",
+    "album_name": "Help!",
+    "song_name": "Its Only Love",
+    "video_id": "https://www.youtube.com/watch?v=OPiKDHYCkjs&list=OLAK5uy_k-1jZWXGR9opMY4OrIipxhUeryP0-ej1A&index=9"
+  },
+  {
+    "path_to_annotation": "./datasets/the_beatles/05_-_Help!/10_-_You_Like_Me_Too_Much.lab",
+    "album_name": "Help!",
+    "song_name": "You Like Me Too Much",
+    "video_id": "https://www.youtube.com/watch?v=ZqCf3D26YlA&list=OLAK5uy_k-1jZWXGR9opMY4OrIipxhUeryP0-ej1A&index=10"
+  },
+  {
+    "path_to_annotation": "./datasets/the_beatles/05_-_Help!/01_-_Help!.lab",
+    "album_name": "Help!",
+    "song_name": "Help!",
+    "video_id": "https://www.youtube.com/watch?v=MKUex3fci5c"
+  },
+  {
+    "path_to_annotation": "./datasets/the_beatles/05_-_Help!/08_-_Act_Naturally.lab",
+    "album_name": "Help!",
+    "song_name": "Act Naturally",
+    "video_id": "https://www.youtube.com/watch?v=yjJd8rZPcAQ&list=OLAK5uy_k-1jZWXGR9opMY4OrIipxhUeryP0-ej1A&index=8"
+  },
+  {
+    "path_to_annotation": "./datasets/the_beatles/05_-_Help!/07_-_Ticket_To_Ride.lab",
+    "album_name": "Help!",
+    "song_name": "Ticket To Ride",
+    "video_id": "https://www.youtube.com/watch?v=acxfOgPWUls"
+  },
+  {
+    "path_to_annotation": "./datasets/the_beatles/05_-_Help!/11_-_Tell_Me_What_You_See.lab",
+    "album_name": "Help!",
+    "song_name": "Tell Me What You See",
+    "video_id": "https://www.youtube.com/watch?v=bztiAcsATyI&list=OLAK5uy_k-1jZWXGR9opMY4OrIipxhUeryP0-ej1A&index=11"
+  },
+  {
+    "path_to_annotation": "./datasets/the_beatles/05_-_Help!/06_-_Youre_Going_To_Lose_That_Girl.lab",
+    "album_name": "Help!",
+    "song_name": "Youre Going To Lose That Girl",
+    "video_id": "https://www.youtube.com/watch?v=vqpEZuv29qE&list=OLAK5uy_k-1jZWXGR9opMY4OrIipxhUeryP0-ej1A&index=6"
+  },
+  {
+    "path_to_annotation": "./datasets/the_beatles/05_-_Help!/02_-_The_Night_Before.lab",
+    "album_name": "Help!",
+    "song_name": "The Night Before",
+    "video_id": "https://www.youtube.com/watch?v=7tD40D7jk-Q&list=OLAK5uy_k-1jZWXGR9opMY4OrIipxhUeryP0-ej1A&index=2"
+  },
+  {
+    "path_to_annotation": "./datasets/the_beatles/05_-_Help!/13_-_Yesterday.lab",
+    "album_name": "Help!",
+    "song_name": "Yesterday",
+    "video_id": "https://www.youtube.com/watch?v=NrgmdOz227I&list=OLAK5uy_k-1jZWXGR9opMY4OrIipxhUeryP0-ej1A&index=13"
+  },
+  {
+    "path_to_annotation": "./datasets/the_beatles/05_-_Help!/03_-_Youve_Got_To_Hide_Your_Love_Away.lab",
+    "album_name": "Help!",
+    "song_name": "Youve Got To Hide Your Love Away",
+    "video_id": "https://www.youtube.com/watch?v=V8nLraecPRY&list=OLAK5uy_k-1jZWXGR9opMY4OrIipxhUeryP0-ej1A&index=3"
+  }
+]
